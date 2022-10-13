@@ -45,13 +45,17 @@ main article section {
 }
 
 main article div {
-  font-size: 20px;
-  width: 50%;
-  margin: 20px auto;
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 10px;
+  color:white;
+  width: 35%;
+  text-align: center;
 }
 
 main article div:hover {
-  font-size: 30px;
+  color: black;
+  font-size: 15px;
   font-family: 'Dancing Script', cursive;
   background-color:white;
 }
